@@ -1,0 +1,2 @@
+# Power BI report files are binary and should not receive text diffs or line-ending conversion.
+*.pbix binary
