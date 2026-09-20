@@ -56,4 +56,6 @@ The `.pbix` package also includes embedded static image resources and an HTML-co
 
 Use Power Query for source connection and shaping, relationships for model behavior, and DAX for reusable business measures. Keep measure names clear, avoid duplicated logic across visuals, and validate totals after every model or refresh change. Before publishing, test page navigation, slicers, cross-filtering, tooltip content, number formats, and empty states.
 
+The documented Power Query transformations, including project consolidation, bank standardization, installment cleansing, and lookup-table preparation, are in [docs/POWER_QUERY_STEPS.md](docs/POWER_QUERY_STEPS.md).
+
 For major development, save timestamped report copies in a restricted backup location or use Power BI Project (`.pbip`) where the team has agreed on that workflow. Do not convert or split this report unilaterally: a project conversion can change collaboration practices and needs a team decision.

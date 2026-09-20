@@ -39,6 +39,8 @@ An interactive Power BI dashboard for monitoring portfolio-level and project-lev
 
 See [SETUP.md](SETUP.md) for installation and collaborator workflow, and [TECHNICAL.md](TECHNICAL.md) for the report architecture.
 
+The actual report data-cleaning workflow is documented in [docs/POWER_QUERY_STEPS.md](docs/POWER_QUERY_STEPS.md).
+
 The raw workbook inventory and versioned report assets are documented in [docs/DATA_SOURCES.md](docs/DATA_SOURCES.md). Raw data files remain local and are intentionally excluded from Git.
 
 The supplied dashboard visual reference is kept in [assets/design/figma-dashboard-reference.svg](assets/design/figma-dashboard-reference.svg); see [docs/DESIGN_REFERENCE.md](docs/DESIGN_REFERENCE.md) for its intended use.
