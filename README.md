@@ -39,6 +39,8 @@ An interactive Power BI dashboard for monitoring portfolio-level and project-lev
 
 See [SETUP.md](SETUP.md) for installation and collaborator workflow, and [TECHNICAL.md](TECHNICAL.md) for the report architecture.
 
+The raw workbook inventory and versioned report assets are documented in [docs/DATA_SOURCES.md](docs/DATA_SOURCES.md). Raw data files remain local and are intentionally excluded from Git.
+
 ## Group collaboration and credit
 
 This is a joint graduation project, not the work of one individual. All participating group members are joint contributors to the dashboard, its data model, analysis, design, testing, and presentation. Add each member's name and agreed contribution below before final submission or publication; do not omit contributors whose work is incorporated in the report.

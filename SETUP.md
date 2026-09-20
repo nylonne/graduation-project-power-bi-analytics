@@ -32,6 +32,8 @@ Document every data source in this file or in `docs/` as the team confirms it:
 
 Do not include passwords, API keys, access tokens, or exported sensitive data in the repository.
 
+The supplied raw workbooks and the report logo are recorded in [docs/DATA_SOURCES.md](docs/DATA_SOURCES.md). Keep raw files in `data/raw/` and do not bypass the ignore rule unless the group explicitly approves the exact files for distribution.
+
 ## Development workflow
 
 1. Announce that you are editing the report before opening it.
