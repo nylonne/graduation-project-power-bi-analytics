@@ -51,4 +51,4 @@ This is a joint graduation project, not the work of one individual. All particip
 
 ## License
 
-This project is available under the [MIT License](LICENSE), copyright 2026 Graduation Project Contributors. Confirm that you have permission to share any embedded data, branding, images, or custom visuals before distributing the report.
+This project is protected by the [Graduation Project Contributor-Only License](LICENSE), copyright 2026 Graduation Project Contributors. It may be used only by verified group contributors; it is not open source. Confirm that you have permission to share any embedded data, branding, images, or custom visuals before distributing the report.

@@ -23,4 +23,4 @@ This repository is maintained by the Graduation Project group. Contributions sho
 
 ## Credit and conduct
 
-Keep the contributor list in `README.md` accurate. Every group member whose work is used in the dashboard, data model, documentation, testing, or presentation must receive appropriate credit.
+Keep the contributor list in `README.md` accurate. Every group member whose work is used in the dashboard, data model, documentation, testing, or presentation must receive appropriate credit. That list also serves as the project record for the contributor-only license; update it by group agreement only.
